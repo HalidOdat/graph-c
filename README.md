@@ -14,7 +14,7 @@ gcc graph.c -lm -o graph
 
 Currently the only way to change the function is to change the source codes `f` function.
 
-There are also some command lines available:
+There are also some command line options available:
 ```
 $ graph --help
 Usage: ./graph [OPTIONS]
@@ -28,7 +28,7 @@ OPTIONS:
     --help or -?                         -    Prints this usage text.
 ```
 
-## Examples 
+## Examples
 
 Function `f(x) = x`:
 
