@@ -1,0 +1,7 @@
+# Executables
+a.out
+graph
+
+# Object files
+*.o
+*.obj
